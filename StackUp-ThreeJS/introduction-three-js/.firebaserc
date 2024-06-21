@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "devantony-stack-threejs-intro",
+    "staging": "devantony-stack-threejs-intro"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}

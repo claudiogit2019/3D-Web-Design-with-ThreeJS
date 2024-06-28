@@ -42,7 +42,7 @@ Elección del lenguaje de programación
 
 Una vez que haya seleccionado "Vanilla", seleccione JavaScript como nuestro lenguaje de programación. Se subrayará el elemento que esté seleccionado actualmente.
 
-![terminal](imagen\threejs1.jfif)
+![terminal](imagen/threejs1.jfif)
 
 Una vez que haya realizado la inicialización adecuada, deberá ejecutar tres comandos. Ahora, ejecute los siguientes comandos uno por uno en su terminal como se muestra a continuación.
 
@@ -109,7 +109,7 @@ En ThreeJS, nos referimos a los objetos 3D como mallas. Una malla constituye una
 
 En este paso, aprenderemos cómo podemos agregar mallas mediante programación a nuestro entorno. Antes de agregarlo, debemos estar familiarizados con algunos principios básicos de posicionamiento y orientación 3D. Son posicionar un objeto, escalar un objeto y rotar un objeto. En estos 3 principios básicos, cada uno de ellos viene con los ejes X, Y y Z. Consulte la imagen como se muestra a continuación.
 
-![ejes](imagen\descarga.png)
+![ejes](imagen/descarga.png)
 
 En esta imagen, verás que Y es responsable de la altura. Tradicionalmente, en un espacio 2D, es solo el eje X y el eje Y. Ahora, como nos enfrentamos a un entorno 3D, podemos escalar, mover y rotar nuestras mallas a lo largo de los ejes X, Y y Z.
 
@@ -138,7 +138,7 @@ En la línea 21, añadiremos un punto de luz al entorno. Dado que se trata de un
 
 A estas alturas, el código de main.js debería ser similar al de la imagen de abajo.
 
-![main](imagen\maincompleto.png)
+![main](imagen/maincompleto.png)
 
 ## Animando nuestras mallas
 
@@ -165,7 +165,7 @@ Dado que las líneas 35 y 36 son las encargadas de mover el cubo en un movimient
 
 A estas alturas, el main.js debería tener 43 líneas de código.
 
-![main](imagen\mainagregado.png)
+![main](imagen/mainagregado.png)
 
 ## Construyendo nuestra aplicación
 
